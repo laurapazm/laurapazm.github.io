@@ -1794,6 +1794,13 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #82786e !important;
 }
+.cid-rBAKmHf1AC H1 {
+  text-align: left;
+}
+.cid-rBAKmHf1AC .mbr-text,
+.cid-rBAKmHf1AC .mbr-section-btn {
+  text-align: left;
+}
 .cid-rBGas0oCyQ {
   background: #ffffff;
 }
