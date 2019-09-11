@@ -473,10 +473,10 @@
               "background-image": "url(@bg-value)"
             },
             "H1": {
-              "text-align": "left"
+              "text-align": "center"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "left"
+              "text-align": "center"
             }
           },
           "_name": "header6",
