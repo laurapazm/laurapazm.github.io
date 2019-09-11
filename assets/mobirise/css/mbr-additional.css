@@ -1832,9 +1832,14 @@ body {
     padding-top: 3rem;
   }
 }
+.cid-rBGR7bVKMt {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
 .cid-rBGuQPCWPY {
-  padding-top: 45px;
-  padding-bottom: 45px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background: #ffffff;
 }
 .cid-rBGuQPCWPY .images-container.container-fluid {
@@ -1881,11 +1886,6 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
-}
-.cid-rBGR7bVKMt {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
 }
 .cid-rBLJWrNPlN {
   background-image: url("../../../assets/images/vitacon-apartment-6-1620x1080.jpg");
