@@ -2715,27 +2715,30 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rBXFzCCTwP {
-  padding-top: 30px;
-  padding-bottom: 45px;
+.cid-rBXJZ3O2H6 {
   background-image: url("../../../assets/images/screenshot-2019-09-12-apresentao-do-powerpoint-bar-treinamento-corretores-rev08-pdf5-1096x616.png");
 }
-.cid-rBXFzCCTwP .title {
-  margin-bottom: 2rem;
+.cid-rBXJZ3O2H6 .form-control,
+.cid-rBXJZ3O2H6 .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #ffffff;
 }
-.cid-rBXFzCCTwP .mbr-section-subtitle {
-  color: #000000;
-  text-align: center;
+.cid-rBXJZ3O2H6 .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
 }
-.cid-rBXFzCCTwP a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rBXFzCCTwP a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rBXFzCCTwP textarea.form-control {
+.cid-rBXJZ3O2H6 textarea.form-control {
   min-height: 188px;
+}
+.cid-rBXJZ3O2H6 .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rBXJZ3O2H6 .content-container {
+    padding-right: 5rem;
+  }
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
@@ -3179,4 +3182,25 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
+}
+.cid-rBXHDn5Jbt {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rBXHDn5Jbt .title {
+  margin-bottom: 2rem;
+}
+.cid-rBXHDn5Jbt .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rBXHDn5Jbt a:not([href]):not([tabindex]) {
+  color: #fff;
+  border-radius: 3px;
+}
+.cid-rBXHDn5Jbt a.btn-white:not([href]):not([tabindex]) {
+  color: #333;
+}
+.cid-rBXHDn5Jbt textarea.form-control {
+  min-height: 188px;
 }
