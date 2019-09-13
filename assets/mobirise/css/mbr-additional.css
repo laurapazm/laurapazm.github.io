@@ -2177,6 +2177,46 @@ body {
 .cid-rBXRIMMcLF .mbr-al-i-c {
   align-items: center;
 }
+.cid-rBXUPXQzzD {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #cccccc;
+}
+.cid-rBXUPXQzzD h3 {
+  font-weight: 300;
+}
+.cid-rBXUPXQzzD .card-img {
+  width: initial;
+}
+.cid-rBXUPXQzzD .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-rBXUPXQzzD .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  min-height: 100%;
+}
+.cid-rBXUPXQzzD .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rBXUPXQzzD .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rBXUPXQzzD .mbr-text {
+  color: #767676;
+  text-align: center;
+}
+.cid-rBXUPXQzzD .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+}
+.cid-rBXUPXQzzD .mbr-al-i-c {
+  align-items: center;
+}
 .cid-rBG851Xnax {
   padding-top: 45px;
   padding-bottom: 45px;
