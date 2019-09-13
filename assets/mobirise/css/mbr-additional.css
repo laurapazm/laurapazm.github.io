@@ -2217,6 +2217,30 @@ body {
 .cid-rBXUPXQzzD .mbr-al-i-c {
   align-items: center;
 }
+.cid-rBXYMOmIpO {
+  background: #000000;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.cid-rBXYMOmIpO .image-block {
+  margin: auto;
+}
+.cid-rBXYMOmIpO .mbr-figure {
+  margin: 0 auto;
+}
+.cid-rBXYMOmIpO figcaption {
+  position: relative;
+}
+.cid-rBXYMOmIpO figcaption div {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+@media (max-width: 768px) {
+  .cid-rBXYMOmIpO .image-block {
+    width: 100% !important;
+  }
+}
 .cid-rBG851Xnax {
   padding-top: 45px;
   padding-bottom: 45px;
