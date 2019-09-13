@@ -3183,24 +3183,28 @@ body {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rBXHDn5Jbt {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #ffffff;
+.cid-rBXKUaq618 {
+  background-image: url("../../../assets/images/screenshot-2019-09-13-book-oficial-vn-turiassu-1473-pdf5-831x529.png");
 }
-.cid-rBXHDn5Jbt .title {
-  margin-bottom: 2rem;
+.cid-rBXKUaq618 .form-control,
+.cid-rBXKUaq618 .form-control:focus {
+  background: #ffffff;
+  border: 1px solid #ffffff;
 }
-.cid-rBXHDn5Jbt .mbr-section-subtitle {
-  color: #767676;
+.cid-rBXKUaq618 .form-container {
+  transition: all .2s;
+  border: 1px solid #ffffff;
+  padding: 1rem;
 }
-.cid-rBXHDn5Jbt a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-rBXHDn5Jbt a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-rBXHDn5Jbt textarea.form-control {
+.cid-rBXKUaq618 textarea.form-control {
   min-height: 188px;
+}
+.cid-rBXKUaq618 .input-group-btn {
+  justify-content: center;
+  -webkit-justify-content: center;
+}
+@media (min-width: 768px) {
+  .cid-rBXKUaq618 .content-container {
+    padding-right: 5rem;
+  }
 }
