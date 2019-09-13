@@ -2246,11 +2246,10 @@ body {
 }
 .cid-rBXYMOmIpO {
   background: #000000;
-  padding-top: 0px;
-  padding-bottom: 0px;
 }
 .cid-rBXYMOmIpO .image-block {
   margin: auto;
+  width: 100% !important;
 }
 .cid-rBXYMOmIpO .mbr-figure {
   margin: 0 auto;
